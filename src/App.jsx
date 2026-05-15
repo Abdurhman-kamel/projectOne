@@ -15,6 +15,7 @@ function App() {
       <div>
         <i className="fa-solid fa-trash"></i>
         hello world
+        lalalalal
       </div>
     </>
   );
