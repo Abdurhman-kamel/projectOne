@@ -14,6 +14,7 @@ function App() {
       <button className="btn btn-warning">loading...</button>
       <div>
         <i className="fa-solid fa-trash"></i>
+        hello world
       </div>
     </>
   );
